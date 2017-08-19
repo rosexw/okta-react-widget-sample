@@ -15,6 +15,7 @@ export default class Navigation extends React.Component{
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
+              <span className="icon-bar"></span>
             </button>
             <Link to="/" className="navbar-brand">OktaReact</Link>
           </div>
@@ -23,6 +24,7 @@ export default class Navigation extends React.Component{
               <li><Link to="/">Home</Link></li>
               <li><Link to="about">About</Link></li>
               <li><Link to="contact">Contact</Link></li>
+              <li><Link to="login">Login</Link></li>
             </ul>
           </div>
         </div>

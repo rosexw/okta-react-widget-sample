@@ -26,7 +26,7 @@ module.exports = {
           index: '/'
         }
       }
-    })
+    }),
   ],
   module: {
     rules: [
